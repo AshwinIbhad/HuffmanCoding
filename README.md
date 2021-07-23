@@ -1,7 +1,6 @@
 # HuffmanCoding
 Encoder/Decoder based on HuffmanCoding Algorithm
 
-
 # Huffman Coding Algorithm
 
 1. Open the 'index.html' file in browser.
